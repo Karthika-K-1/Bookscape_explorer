@@ -1,5 +1,5 @@
 # Bookscape Explorer
-An interactive web application to explore book data. 
+An interactive web application to explore information about desired books. 
 
 # Introduction
 BookScape Explorer is an interactive web application designed to help users discover, analyze, and explore book data from various sources. The project integrates the Google Books API to fetch data about books, stores this data in a well-structured SQL database, and provides powerful insights through SQL queries. The application aims to provide a comprehensive platform for readers, researchers, and book enthusiasts to explore books, analyze trends, and make informed reading choices.
