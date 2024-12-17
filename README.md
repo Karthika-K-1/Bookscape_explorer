@@ -10,12 +10,12 @@ BookScape Explorer is an interactive web application designed to help users disc
 3) To analyze the books by creating SQL queries
 
 # Skills & Technologies Used
-Programming Languages: Python (VS Code)
-Web Framework: Streamlit
-Database Management System: SQL (MySQL)
-API Integration: Google Books API
-Data Analysis: SQL Queries, Pandas
-Visualization Tool: Streamlit (Tables, Charts, Dashboards)
+1) Programming Languages: Python (VS Code)
+2) Web Framework: Streamlit
+3) Database Management System: SQL (MySQL)
+4) API Integration: Google Books API
+5) Data Analysis: SQL Queries, Pandas
+6) Visualization Tool: Streamlit (Tables, Charts, Dashboards)
 
 # Data Cleaning
 1) Once book details are extracted through API, relevant data is further extracted as dictionary. Pagination is used while extracting 500 data using API as only 40 books are vailable in one page.
