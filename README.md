@@ -1,4 +1,4 @@
-# Bookscape_explorer
+# Bookscape Explorer
 An interactive web application to explore book data. 
 
 # Introduction
