@@ -1,7 +1,7 @@
 # Bookscape_explorer
 An interactive web application to explore book data. 
 
-# Introduction:
+# Introduction
 BookScape Explorer is an interactive web application designed to help users discover, analyze, and explore book data from various sources. The project integrates the Google Books API to fetch data about books, stores this data in a well-structured SQL database, and provides powerful insights through SQL queries. The application aims to provide a comprehensive platform for readers, researchers, and book enthusiasts to explore books, analyze trends, and make informed reading choices.
 
 # Objectives
@@ -9,7 +9,7 @@ BookScape Explorer is an interactive web application designed to help users disc
 2) To develop a Streamlit web application having a user-friendly interface to allow users to search and explore book data.
 3) To analyze the books by creating SQL queries
 
-# Skills & Technologies Used:
+# Skills & Technologies Used
 Programming Languages: Python (VS Code)
 Web Framework: Streamlit
 Database Management System: SQL (MySQL)
